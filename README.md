@@ -1,5 +1,5 @@
 - 👋 Olá, Sou Ivan Silva Alves
--   Sou estudante de Analise e Desenvolvimento de Sistemas pelo Senac RS - Brasil
+-   Estudante de Analise e Desenvolvimento de Sistemas pelo Senac RS - Brasil
 -   Iniciando aqui os meus primeiros paços no github
 
 <!---
