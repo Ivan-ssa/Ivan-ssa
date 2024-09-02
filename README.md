@@ -2,7 +2,7 @@
 -   Estudante de Analise e Desenvolvimento de Sistemas pelo Senac RS - Brasil.
 -   Iniciando aqui os meus primeiros passos no github.
 -   Estou criando uma pagina com informações no W3school- acompanhe nele meu desenvolvimento.
--   ivan-ssa.w3spaces-preview.com/index.html
+-   https://ivan-ssa.w3spaces-preview.com/index.html
 
 <!---
 Ivan-ssa/Ivan-ssa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
